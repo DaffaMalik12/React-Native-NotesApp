@@ -37,7 +37,7 @@
 ## Jika Tidak Muncul ketika dijalankan
 
 - Buka Folder Node Modules di bawah folder database
-  ![Tutorial Import](./assets/nodes modules)
+  ![Tutorial Import](./assets/nodes modules.png)
 
 - Cari File Expo
   ![Tutorial Import](./assets/expo.png)
