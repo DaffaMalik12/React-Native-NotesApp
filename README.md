@@ -8,7 +8,7 @@
 
 ## Masuk Directory Backend
 
-`cd backend`
+- `cd backend`
 
 ## Install Package Backend (Express js, mySQL)
 
@@ -22,7 +22,7 @@
 
 ## Keluar Direktori backend
 
-`cd ../`
+- `cd ../`
 
 ## Install Package Frontend (React Native)
 
