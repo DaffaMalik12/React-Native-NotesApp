@@ -37,17 +37,21 @@
 ## Jika Tidak Muncul ketika dijalankan
 
 - Buka Folder Node Modules di bawah folder database
-  ![Tutorial Import](./assets/node%20modules.png)
+
+- ![Tutorial Import](./assets/node%20modules.png)
 
 - Cari File Expo
-  ![Tutorial Import](./assets/expo.png)
+
+- ![Tutorial Import](./assets/expo.png)
 
 - Klik AppEntry.js
-  ![Tutorial Import](./assets/appentry.png)
+
+- ![Tutorial Import](./assets/appentry.png)
 
 - Ubah Menjadi Seperti ini
-  ![Tutorial Import](./assets/ubah.png)
+
+- ![Tutorial Import](./assets/ubah.png)
 
 ## Contoh Gambar
 
-![NotesApp](./assets/foto-notes.png)
+- ![NotesApp](./assets/foto-notes.png)
