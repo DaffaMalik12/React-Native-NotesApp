@@ -20,7 +20,7 @@ Note: Jangan Lupa Nyalakan XAMPP nya
 
 `cd ../`
 
-## Install Package Frontend
+## Install Package Frontend (React Native)
 
 `npm install`
 `npm install axios`
