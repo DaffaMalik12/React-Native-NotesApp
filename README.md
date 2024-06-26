@@ -34,6 +34,19 @@
 - Untuk dijalankan di web (jangan lupa pake extension mobile simulator di chrome) `npx expo start --web`
 - Untuk Menjalankan di Android (Jika Punya Emulator di Android Studio) `npx expo start --android`
 
+## Jika Tidak Muncul ketika dijalankan
+- Buka Folder Node Modules di bawah folder database
+  ![Tutorial Import](./assets/nodes modules)
+
+- Cari File Expo
+  ![Tutorial Import](./assets/expo)
+
+- Klik AppEntry.js
+  ![Tutorial Import](./assets/appentry)
+
+- Ubah Menjadi Seperti ini
+  ![Tutorial Import](./assets/ubah)  
+
 ## Contoh Gambar
 
 ![NotesApp](./assets/foto-notes.png)
