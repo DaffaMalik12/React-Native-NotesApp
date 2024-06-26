@@ -35,17 +35,18 @@
 - Untuk Menjalankan di Android (Jika Punya Emulator di Android Studio) `npx expo start --android`
 
 ## Jika Tidak Muncul ketika dijalankan
+
 - Buka Folder Node Modules di bawah folder database
   ![Tutorial Import](./assets/nodes modules)
 
 - Cari File Expo
-  ![Tutorial Import](./assets/expo)
+  ![Tutorial Import](./assets/expo.png)
 
 - Klik AppEntry.js
-  ![Tutorial Import](./assets/appentry)
+  ![Tutorial Import](./assets/appentry.png)
 
 - Ubah Menjadi Seperti ini
-  ![Tutorial Import](./assets/ubah)  
+  ![Tutorial Import](./assets/ubah.png)
 
 ## Contoh Gambar
 
