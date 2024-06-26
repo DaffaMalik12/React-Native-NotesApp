@@ -2,6 +2,10 @@
 
 `git clone https://github.com/DaffaMalik12/React-Native-NotesApp.git`
 
+## Install Yarn di Laptopmu (Jika blm ada)
+
+- `npm install -g yarn`
+
 ## Masuk Directory Backend
 
 `cd backend`
