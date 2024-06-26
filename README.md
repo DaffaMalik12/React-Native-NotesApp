@@ -33,3 +33,7 @@
 
 - Untuk dijalankan di web (jangan lupa pake extension mobile simulator di chrome) `npx expo start --web`
 - Untuk Menjalankan di Android (Jika Punya Emulator di Android Studio) `npx expo start --android`
+
+## Contoh Gambar
+
+![NotesApp](./assets/foto-notes.png)
