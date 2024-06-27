@@ -1,3 +1,6 @@
+## Sebelum kalian Clone Project ini Sebaiknya kalian Download Node js terlebih dahulu
+
+
 ## Clone Project NotesAPP
 
 `git clone https://github.com/DaffaMalik12/React-Native-NotesApp.git`
